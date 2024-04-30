@@ -14,6 +14,6 @@ Generate C Shellcode from BIN:
 ```ruby shellcode_generator.rb file.bin c ```
 
 Generate C# Shellcode from BIN:
-``` ruby shellcode_generator.rb file.bin c ```
+``` ruby shellcode_generator.rb file.bin cs ```
 
 ### Just for fun #happyhacking
